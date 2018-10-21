@@ -1,0 +1,2416 @@
+Started GET "/" for 127.0.0.1 at 2018-10-18 11:07:06 +1000
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/caadmin/.rvm/gems/ruby-2.5.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/caadmin/.rvm/gems/ruby-2.5.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb (2.5ms)
+Completed 200 OK in 14ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 11:10:17 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 1010ms (Views: 1008.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 11:12:54 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 31ms (Views: 29.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2018-10-18 11:13:12 +1000
+Processing by HomeController#about as HTML
+  Rendering home/about.html.erb within layouts/application
+  Rendered home/about.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 34ms (Views: 32.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2018-10-18 11:15:21 +1000
+Processing by HomeController#about as HTML
+  Rendering home/about.html.erb within layouts/application
+  Rendered home/about.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 39ms (Views: 36.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2018-10-18 11:20:26 +1000
+Processing by HomeController#about as HTML
+  Rendering home/about.html.erb within layouts/application
+  Rendered home/about.html.erb within layouts/application (0.4ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+Completed 200 OK in 19ms (Views: 17.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2018-10-18 11:20:41 +1000
+Processing by HomeController#about as HTML
+  Rendering home/about.html.erb within layouts/application
+  Rendered home/about.html.erb within layouts/application (0.3ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+Completed 200 OK in 20ms (Views: 18.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2018-10-18 11:21:03 +1000
+Processing by HomeController#about as HTML
+  Rendering home/about.html.erb within layouts/application
+  Rendered home/about.html.erb within layouts/application (0.3ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+Completed 200 OK in 24ms (Views: 22.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 11:21:09 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+Completed 200 OK in 21ms (Views: 19.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 11:28:53 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+Completed 200 OK in 21ms (Views: 19.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 11:56:29 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (0.7ms)
+Completed 200 OK in 25ms (Views: 23.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 11:56:30 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.5ms)
+Completed 200 OK in 23ms (Views: 21.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 11:58:35 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.9ms)
+Completed 200 OK in 29ms (Views: 28.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 11:58:37 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.5ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.5ms)
+Completed 200 OK in 36ms (Views: 32.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 11:58:56 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 21ms (Views: 20.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 13:23:21 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+  Rendered home/_navbar.html.erb (0.6ms)
+  Rendered home/_new_question_form.html.erb (1.1ms)
+Completed 200 OK in 34ms (Views: 32.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 17:29:27 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (2.0ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.8ms)
+Completed 200 OK in 40ms (Views: 38.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 17:29:30 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.2ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.8ms)
+Completed 200 OK in 40ms (Views: 37.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 17:29:33 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 26ms (Views: 24.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 17:29:38 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 22ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 17:29:44 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (0.7ms)
+Completed 200 OK in 44ms (Views: 41.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 17:38:02 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+  Rendered home/_navbar.html.erb (0.2ms)
+  Rendered home/_new_question_form.html.erb (0.5ms)
+Completed 200 OK in 237ms (Views: 228.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 17:38:04 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.2ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.5ms)
+Completed 200 OK in 42ms (Views: 39.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 17:38:07 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.3ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (0.9ms)
+Completed 200 OK in 43ms (Views: 39.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 17:48:23 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (0.7ms)
+Completed 200 OK in 25ms (Views: 24.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 17:48:25 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.2ms)
+  Rendered home/_navbar.html.erb (0.2ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 40ms (Views: 37.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 17:48:28 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.3ms)
+Completed 200 OK in 41ms (Views: 38.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 17:49:16 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 31ms (Views: 29.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-18 17:49:18 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.3ms)
+Completed 200 OK in 40ms (Views: 37.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-19 08:45:01 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.3ms)
+Completed 200 OK in 60ms (Views: 57.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-19 08:45:03 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (0.3ms)
+Completed 200 OK in 28ms (Views: 26.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 08:24:43 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (26.0ms)
+  Rendered home/_navbar.html.erb (17.8ms)
+  Rendered home/_new_question_form.html.erb (9.2ms)
+Completed 200 OK in 839ms (Views: 759.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:09:16 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+  Rendered home/_navbar.html.erb (0.5ms)
+  Rendered home/_new_question_form.html.erb (0.4ms)
+Completed 200 OK in 198ms (Views: 191.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:09:18 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 42ms (Views: 39.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:09:21 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.9ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.3ms)
+Completed 200 OK in 41ms (Views: 38.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:09:46 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.4ms)
+Completed 200 OK in 34ms (Views: 32.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:10:40 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.2ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 36ms (Views: 32.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:10:46 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.3ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (0.3ms)
+Completed 200 OK in 44ms (Views: 40.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:10:48 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.6ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 37ms (Views: 33.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:14:31 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 34ms (Views: 33.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:14:50 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.3ms)
+  Rendered home/_navbar.html.erb (0.2ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 39ms (Views: 36.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:14:53 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.3ms)
+Completed 200 OK in 22ms (Views: 20.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:14:55 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.3ms)
+  Rendered home/_navbar.html.erb (0.2ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 39ms (Views: 35.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:18:04 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:18:07 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+  Rendered home/_navbar.html.erb (0.2ms)
+  Rendered home/_new_question_form.html.erb (0.8ms)
+Completed 200 OK in 3493ms (Views: 3487.0ms | ActiveRecord: 0.0ms)
+
+
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.3ms)
+Completed 200 OK in 1451ms (Views: 1450.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:18:08 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.4ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (0.4ms)
+Completed 200 OK in 35ms (Views: 33.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:18:12 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 50ms (Views: 47.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:23:41 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+  Rendered home/_navbar.html.erb (0.2ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 171ms (Views: 169.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:24:36 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.3ms)
+Completed 200 OK in 26ms (Views: 24.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:26:13 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+  Rendered home/_navbar.html.erb (0.2ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 23ms (Views: 21.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:26:56 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.3ms)
+Completed 200 OK in 29ms (Views: 27.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:31:17 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 41ms (Views: 39.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:31:20 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.2ms)
+  Rendered home/_navbar.html.erb (0.2ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 46ms (Views: 42.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:31:29 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.4ms)
+  Rendered home/_navbar.html.erb (0.2ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 37ms (Views: 33.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:31:31 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.4ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 48ms (Views: 45.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:33:11 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+  Rendered home/_navbar.html.erb (0.2ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 22ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:33:12 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.2ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 40ms (Views: 37.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:33:18 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (0.3ms)
+Completed 200 OK in 22ms (Views: 20.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:38:49 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+  Rendered home/_navbar.html.erb (0.2ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 36ms (Views: 32.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:38:51 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.1ms)
+  Rendered home/_navbar.html.erb (0.5ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 35ms (Views: 32.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:42:51 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.2ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 39ms (Views: 36.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:43:06 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (0.3ms)
+Completed 200 OK in 22ms (Views: 21.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:43:09 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 37ms (Views: 34.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:43:14 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.1ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 30ms (Views: 27.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:43:37 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+  Rendered home/_navbar.html.erb (0.2ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 34ms (Views: 30.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:44:30 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.3ms)
+Completed 200 OK in 27ms (Views: 25.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:44:32 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 42ms (Views: 39.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:45:10 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.3ms)
+Completed 200 OK in 23ms (Views: 22.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:45:35 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+  Rendered home/_navbar.html.erb (0.6ms)
+  Rendered home/_new_question_form.html.erb (0.4ms)
+Completed 200 OK in 28ms (Views: 26.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:46:33 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (0.4ms)
+Completed 200 OK in 28ms (Views: 26.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:46:57 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.7ms)
+  Rendered home/_navbar.html.erb (0.2ms)
+  Rendered home/_new_question_form.html.erb (0.2ms)
+Completed 200 OK in 48ms (Views: 44.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:49:54 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+  Rendered home/_navbar.html.erb (0.2ms)
+  Rendered home/_new_question_form.html.erb (0.3ms)
+Completed 200 OK in 312ms (Views: 305.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:57:28 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.8ms)
+Completed 500 Internal Server Error in 27ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/caadmin/repos/morning-challenges-term2/forum/app/views/home/_new_question_form.html.erb:34: syntax error, unexpected end-of-input, expecting keyword_end
+          end
+             ^):
+  
+app/views/home/_new_question_form.html.erb:34: syntax error, unexpected end-of-input, expecting keyword_end
+app/views/layouts/application.html.erb:25:in `_app_views_layouts_application_html_erb___1513178261240093909_69883086005240'
+Started GET "/" for 127.0.0.1 at 2018-10-21 11:58:18 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.5ms)
+Completed 200 OK in 39ms (Views: 36.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 12:00:13 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+  Rendered home/_navbar.html.erb (0.2ms)
+  Rendered home/_new_question_form.html.erb (0.5ms)
+Completed 200 OK in 25ms (Views: 24.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/questions" for 127.0.0.1 at 2018-10-21 12:00:25 +1000
+  
+ActionController::RoutingError (No route matches [POST] "/questions"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-10-21 12:03:39 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.5ms)
+Completed 200 OK in 24ms (Views: 22.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/questions" for 127.0.0.1 at 2018-10-21 12:03:46 +1000
+Processing by HomeController#temp as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"55P1JYZnln6PZDho+fX5KFhollIRWlRuZaRiIP5MPoBDvyzBBFyZyyhyPx2h0MI9G55gXynunj81lhEAEe1RHA==", "email"=>"janel.brandon@coderacademy.edu.au", "question_body"=>"as"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 12:03:46 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 23ms (Views: 22.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 12:06:04 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 32ms (Views: 30.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/questions" for 127.0.0.1 at 2018-10-21 12:06:21 +1000
+Processing by HomeController#temp as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"fHVZVohw/fv6kIqSDRODzuVg3ulvVeXVK3mwzdv7XQfYWYCyCkvyTl2GjedVNrjbppYo5FfhL4R7S8PtNFoymw==", "question"=>{"email"=>"janel@coder.academy.edu.au", "body"=>"why?"}}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 12:06:21 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+  Rendered home/_navbar.html.erb (0.6ms)
+  Rendered home/_new_question_form.html.erb (0.8ms)
+Completed 200 OK in 32ms (Views: 30.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/question/12" for 127.0.0.1 at 2018-10-21 12:09:14 +1000
+  
+ActionController::RoutingError (No route matches [GET] "/question/12"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/questions/12" for 127.0.0.1 at 2018-10-21 12:09:22 +1000
+Processing by HomeController#question as HTML
+  Parameters: {"id"=>"12"}
+  Rendering home/question.html.erb within layouts/application
+  Rendered home/question.html.erb within layouts/application (0.4ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (1.3ms)
+Completed 200 OK in 31ms (Views: 29.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/questions/12" for 127.0.0.1 at 2018-10-21 12:12:19 +1000
+Processing by HomeController#question as HTML
+  Parameters: {"id"=>"12"}
+  Rendering home/question.html.erb within layouts/application
+  Rendered home/question.html.erb within layouts/application (0.3ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 28ms (Views: 26.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/questions/12" for 127.0.0.1 at 2018-10-21 12:12:42 +1000
+Processing by HomeController#question as HTML
+  Parameters: {"id"=>"12"}
+  Rendering home/question.html.erb within layouts/application
+  Rendered home/question.html.erb within layouts/application (0.4ms)
+  Rendered home/_navbar.html.erb (0.5ms)
+  Rendered home/_new_question_form.html.erb (1.0ms)
+Completed 200 OK in 26ms (Views: 25.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/questions/12" for 127.0.0.1 at 2018-10-21 12:13:57 +1000
+Processing by HomeController#question as HTML
+  Parameters: {"id"=>"12"}
+  Rendering home/question.html.erb within layouts/application
+  Rendered home/question.html.erb within layouts/application (0.4ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.8ms)
+Completed 200 OK in 29ms (Views: 28.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/questions/12" for 127.0.0.1 at 2018-10-21 12:14:52 +1000
+Processing by HomeController#question as HTML
+  Parameters: {"id"=>"12"}
+  Rendering home/question.html.erb within layouts/application
+  Rendered home/question.html.erb within layouts/application (0.4ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 31ms (Views: 29.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/questions/12" for 127.0.0.1 at 2018-10-21 12:17:12 +1000
+Processing by HomeController#question as HTML
+  Parameters: {"id"=>"12"}
+  Rendering home/question.html.erb within layouts/application
+  Rendered home/question.html.erb within layouts/application (0.3ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.7ms)
+Completed 200 OK in 26ms (Views: 25.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/questions/12" for 127.0.0.1 at 2018-10-21 12:17:24 +1000
+Processing by HomeController#question as HTML
+  Parameters: {"id"=>"12"}
+  Rendering home/question.html.erb within layouts/application
+  Rendered home/question.html.erb within layouts/application (0.4ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.7ms)
+Completed 200 OK in 28ms (Views: 27.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/questions" for 127.0.0.1 at 2018-10-21 12:17:29 +1000
+  
+ActionController::RoutingError (No route matches [GET] "/questions"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-10-21 12:17:35 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (0.7ms)
+Completed 200 OK in 32ms (Views: 31.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/questions/12" for 127.0.0.1 at 2018-10-21 12:17:38 +1000
+Processing by HomeController#question as HTML
+  Parameters: {"id"=>"12"}
+  Rendering home/question.html.erb within layouts/application
+  Rendered home/question.html.erb within layouts/application (0.4ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 28ms (Views: 26.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/questions/12" for 127.0.0.1 at 2018-10-21 12:19:48 +1000
+Processing by HomeController#question as HTML
+  Parameters: {"id"=>"12"}
+  Rendering home/question.html.erb within layouts/application
+  Rendered home/question.html.erb within layouts/application (0.3ms)
+  Rendered home/_navbar.html.erb (4.9ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 29ms (Views: 27.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/questions/12" for 127.0.0.1 at 2018-10-21 12:20:55 +1000
+Processing by HomeController#question as HTML
+  Parameters: {"id"=>"12"}
+  Rendering home/question.html.erb within layouts/application
+  Rendered home/question.html.erb within layouts/application (0.4ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (1.2ms)
+Completed 200 OK in 24ms (Views: 23.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/questions/12" for 127.0.0.1 at 2018-10-21 12:24:34 +1000
+Processing by HomeController#question as HTML
+  Parameters: {"id"=>"12"}
+  Rendering home/question.html.erb within layouts/application
+  Rendered home/question.html.erb within layouts/application (0.4ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.8ms)
+Completed 200 OK in 33ms (Views: 32.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/questions/12" for 127.0.0.1 at 2018-10-21 12:26:20 +1000
+Processing by HomeController#question as HTML
+  Parameters: {"id"=>"12"}
+  Rendering home/question.html.erb within layouts/application
+  Rendered home/question.html.erb within layouts/application (1.9ms)
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Missing partial home/_new_answer_modal with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/caadmin/repos/morning-challenges-term2/forum/app/views"
+):
+    17:             <button type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#new-answer-modal">Submit new answer</button>
+    18:         </div>
+    19:         <%# render the answer model%>
+    20:         <%=render 'home/new_answer_modal'%>
+    21: 
+    22:         <div class="media">
+    23:             <div class="media-left media-middle">
+  
+app/views/home/question.html.erb:20:in `_app_views_home_question_html_erb___3363184795240038326_69882911124200'
+Started GET "/questions/12" for 127.0.0.1 at 2018-10-21 12:27:30 +1000
+Processing by HomeController#question as HTML
+  Parameters: {"id"=>"12"}
+  Rendering home/question.html.erb within layouts/application
+  Rendered home/question.html.erb within layouts/application (2.8ms)
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Missing partial home/_new_answer_modal with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/caadmin/repos/morning-challenges-term2/forum/app/views"
+):
+    17:             <button type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#new-answer-form">Submit new answer</button>
+    18:         </div>
+    19:         <%# render the answer model%>
+    20:         <%=render 'home/new_answer_modal'%>
+    21: 
+    22:         <div class="media">
+    23:             <div class="media-left media-middle">
+  
+app/views/home/question.html.erb:20:in `_app_views_home_question_html_erb___3363184795240038326_69883083352600'
+Started GET "/questions/12" for 127.0.0.1 at 2018-10-21 12:28:03 +1000
+Processing by HomeController#question as HTML
+  Parameters: {"id"=>"12"}
+  Rendering home/question.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (0.9ms)
+  Rendered home/question.html.erb within layouts/application (3.4ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 29ms (Views: 27.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/questions/12" for 127.0.0.1 at 2018-10-21 12:29:22 +1000
+Processing by HomeController#question as HTML
+  Parameters: {"id"=>"12"}
+  Rendering home/question.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (1.1ms)
+  Rendered home/question.html.erb within layouts/application (1.9ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.5ms)
+Completed 200 OK in 27ms (Views: 25.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/questions" for 127.0.0.1 at 2018-10-21 12:29:30 +1000
+Processing by HomeController#temp as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"TaKLpeTS8dZJeSbqsjO4r0bmo74VoHvIUwa+zmcLj4DpjlJBZun+Y+5vIZ/qFoO6BRBVsy0UsZkDNM3uiKrgHA==", "question"=>{"email"=>"janel@coder.academy.edu.au", "body"=>"because"}}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 12:29:30 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 37ms (Views: 35.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 12:30:39 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 25ms (Views: 23.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/questions/12" for 127.0.0.1 at 2018-10-21 12:30:40 +1000
+Processing by HomeController#question as HTML
+  Parameters: {"id"=>"12"}
+  Rendering home/question.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (1.5ms)
+  Rendered home/question.html.erb within layouts/application (4.2ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 31ms (Views: 29.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/answers" for 127.0.0.1 at 2018-10-21 12:30:57 +1000
+Processing by HomeController#temp as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"JkP9Fr1wZlSH4xLro6pp7kGRgtnzDOxwAtOCDeloL/YPWIxGtd65d00VjMrTk4Y3greJ7NWUi8oYqoQGeczolQ==", "answer"=>{"email"=>"janelgbrandon@gmail.com", "body"=>"because"}}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 12:30:57 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+  Rendered home/_navbar.html.erb (0.2ms)
+  Rendered home/_new_question_form.html.erb (0.7ms)
+Completed 200 OK in 31ms (Views: 30.1ms | ActiveRecord: 0.0ms)
+
+
+  [1m[35m (320.3ms)[0m  [1m[35mCREATE DATABASE "forum_development" ENCODING = 'utf8'[0m
+  ↳ bin/rails:9
+  [1m[35m (263.3ms)[0m  [1m[35mCREATE DATABASE "forum_test" ENCODING = 'utf8'[0m
+  ↳ bin/rails:9
+  [1m[35m (11.3ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL PRIMARY KEY)[0m
+  ↳ bin/rails:9
+  [1m[35m (6.9ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" character varying NOT NULL PRIMARY KEY, "value" character varying, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_try_advisory_lock(6851874718261121640)[0m
+  ↳ bin/rails:9
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[36mActiveRecord::InternalMetadata Load (0.4ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ bin/rails:9
+  [1m[36mActiveRecord::InternalMetadata Create (0.7ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "key"[0m  [["key", "environment"], ["value", "development"], ["created_at", "2018-10-21 02:47:59.864121"], ["updated_at", "2018-10-21 02:47:59.864121"]]
+  ↳ bin/rails:9
+  [1m[35m (0.9ms)[0m  [1m[35mCOMMIT[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_advisory_unlock(6851874718261121640)[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+Started GET "/" for 127.0.0.1 at 2018-10-21 12:49:09 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 200ms (Views: 194.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/questions" for 127.0.0.1 at 2018-10-21 12:49:33 +1000
+Processing by HomeController#temp as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"wzCokr268KpJ3au2f4sWKVJ8q/cDFkS82uGVvYqF4tdnHHF2P4H/H+7LrMMnri08EYpd+juiju2K0+adZSSNSw==", "question"=>{"email"=>"janel@coder.academy.edu.au", "body"=>"what is the universe made of?"}}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 12:49:33 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+  Rendered home/_navbar.html.erb (0.2ms)
+  Rendered home/_new_question_form.html.erb (0.7ms)
+Completed 200 OK in 23ms (Views: 22.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/questions/12" for 127.0.0.1 at 2018-10-21 12:49:35 +1000
+Processing by HomeController#question as HTML
+  Parameters: {"id"=>"12"}
+  Rendering home/question.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (1.0ms)
+  Rendered home/question.html.erb within layouts/application (2.5ms)
+  Rendered home/_navbar.html.erb (0.2ms)
+  Rendered home/_new_question_form.html.erb (1.7ms)
+Completed 200 OK in 28ms (Views: 26.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/answers" for 127.0.0.1 at 2018-10-21 12:49:48 +1000
+Processing by HomeController#temp as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"35s6QjkA2byjVSq+w4eLGaCeEV/PyIMJxEbyfc1QoH32gEsSMa4Gn2mjtJ+zvmTAY7gaaulQ5LPeP/R2XfRnHg==", "answer"=>{"email"=>"janelgbrandon@gmail.com", "body"=>"consciousness"}}
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 12:49:48 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+  Rendered home/_navbar.html.erb (0.6ms)
+  Rendered home/_new_question_form.html.erb (0.8ms)
+Completed 200 OK in 30ms (Views: 29.1ms | ActiveRecord: 0.0ms)
+
+
+  [1m[35m (2.2ms)[0m  [1m[35mCREATE DATABASE "forum_development" ENCODING = 'utf8'[0m
+  ↳ bin/rails:9
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE DATABASE "forum_test" ENCODING = 'utf8'[0m
+  ↳ bin/rails:9
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35mSQL (1.0ms)[0m  [1m[35mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  ↳ db/schema.rb:16
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ db/schema.rb:13
+  [1m[35m (1.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" (version) VALUES (0)[0m
+  ↳ db/schema.rb:13
+  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ db/schema.rb:13
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ db/schema.rb:13
+  [1m[35m (0.2ms)[0m  [1m[35mCOMMIT[0m
+  ↳ db/schema.rb:13
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[35mCOMMIT[0m
+  ↳ bin/rails:9
+  [1m[35mSQL (0.7ms)[0m  [1m[35mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  ↳ db/schema.rb:16
+  [1m[35m (16.0ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL PRIMARY KEY)[0m
+  ↳ db/schema.rb:13
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ db/schema.rb:13
+  [1m[35m (1.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" (version) VALUES (0)[0m
+  ↳ db/schema.rb:13
+  [1m[35m (8.2ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" character varying NOT NULL PRIMARY KEY, "value" character varying, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  ↳ db/schema.rb:13
+  [1m[36mActiveRecord::InternalMetadata Load (1.1ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ db/schema.rb:13
+  [1m[35m (0.6ms)[0m  [1m[35mBEGIN[0m
+  ↳ db/schema.rb:13
+  [1m[36mActiveRecord::InternalMetadata Create (1.1ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "key"[0m  [["key", "environment"], ["value", "development"], ["created_at", "2018-10-21 03:52:34.233110"], ["updated_at", "2018-10-21 03:52:34.233110"]]
+  ↳ db/schema.rb:13
+  [1m[35m (1.5ms)[0m  [1m[35mCOMMIT[0m
+  ↳ db/schema.rb:13
+  [1m[36mActiveRecord::InternalMetadata Load (0.8ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ bin/rails:9
+  [1m[35m (0.5ms)[0m  [1m[35mBEGIN[0m
+  ↳ bin/rails:9
+  [1m[36mActiveRecord::InternalMetadata Update (0.9ms)[0m  [1m[33mUPDATE "ar_internal_metadata" SET "value" = $1, "updated_at" = $2 WHERE "ar_internal_metadata"."key" = $3[0m  [["value", "test"], ["updated_at", "2018-10-21 03:52:34.244320"], ["key", "environment"]]
+  ↳ bin/rails:9
+  [1m[35m (1.4ms)[0m  [1m[35mCOMMIT[0m
+  ↳ bin/rails:9
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE DATABASE "forum_development" ENCODING = 'utf8'[0m
+  ↳ bin/rails:9
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE DATABASE "forum_test" ENCODING = 'utf8'[0m
+  ↳ bin/rails:9
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35mSQL (0.2ms)[0m  [1m[35mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  ↳ db/schema.rb:16
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ db/schema.rb:13
+  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ db/schema.rb:13
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ db/schema.rb:13
+  [1m[35m (0.2ms)[0m  [1m[35mCOMMIT[0m
+  ↳ db/schema.rb:13
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[35mCOMMIT[0m
+  ↳ bin/rails:9
+  [1m[35mSQL (0.2ms)[0m  [1m[35mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  ↳ db/schema.rb:16
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ db/schema.rb:13
+  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ db/schema.rb:13
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ db/schema.rb:13
+  [1m[36mActiveRecord::InternalMetadata Update (0.3ms)[0m  [1m[33mUPDATE "ar_internal_metadata" SET "value" = $1, "updated_at" = $2 WHERE "ar_internal_metadata"."key" = $3[0m  [["value", "development"], ["updated_at", "2018-10-21 03:53:05.269664"], ["key", "environment"]]
+  ↳ db/schema.rb:13
+  [1m[35m (2.6ms)[0m  [1m[35mCOMMIT[0m
+  ↳ db/schema.rb:13
+  [1m[36mActiveRecord::InternalMetadata Load (0.7ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ bin/rails:9
+  [1m[35m (0.5ms)[0m  [1m[35mBEGIN[0m
+  ↳ bin/rails:9
+  [1m[36mActiveRecord::InternalMetadata Update (1.1ms)[0m  [1m[33mUPDATE "ar_internal_metadata" SET "value" = $1, "updated_at" = $2 WHERE "ar_internal_metadata"."key" = $3[0m  [["value", "test"], ["updated_at", "2018-10-21 03:53:05.279862"], ["key", "environment"]]
+  ↳ bin/rails:9
+  [1m[35m (1.5ms)[0m  [1m[35mCOMMIT[0m
+  ↳ bin/rails:9
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (257.8ms)[0m  [1m[35mCREATE DATABASE "forum_solution_development" ENCODING = 'utf8'[0m
+  ↳ bin/rails:9
+  [1m[35m (261.2ms)[0m  [1m[35mCREATE DATABASE "forum_solution_test" ENCODING = 'utf8'[0m
+  ↳ bin/rails:9
+  [1m[35mSQL (0.4ms)[0m  [1m[35mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  ↳ db/schema.rb:16
+  [1m[35m (11.4ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL PRIMARY KEY)[0m
+  ↳ db/schema.rb:13
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ db/schema.rb:13
+  [1m[35m (1.9ms)[0m  [1m[32mINSERT INTO "schema_migrations" (version) VALUES (0)[0m
+  ↳ db/schema.rb:13
+  [1m[35m (10.9ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" character varying NOT NULL PRIMARY KEY, "value" character varying, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  ↳ db/schema.rb:13
+  [1m[36mActiveRecord::InternalMetadata Load (1.1ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ db/schema.rb:13
+  [1m[35m (0.4ms)[0m  [1m[35mBEGIN[0m
+  ↳ db/schema.rb:13
+  [1m[36mActiveRecord::InternalMetadata Create (0.8ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "key"[0m  [["key", "environment"], ["value", "development"], ["created_at", "2018-10-21 03:53:48.342053"], ["updated_at", "2018-10-21 03:53:48.342053"]]
+  ↳ db/schema.rb:13
+  [1m[35m (1.1ms)[0m  [1m[35mCOMMIT[0m
+  ↳ db/schema.rb:13
+  [1m[36mActiveRecord::InternalMetadata Load (0.4ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[35mCOMMIT[0m
+  ↳ bin/rails:9
+  [1m[35mSQL (0.3ms)[0m  [1m[35mCREATE EXTENSION IF NOT EXISTS "plpgsql"[0m
+  ↳ db/schema.rb:16
+  [1m[35m (10.7ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL PRIMARY KEY)[0m
+  ↳ db/schema.rb:13
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ db/schema.rb:13
+  [1m[35m (1.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" (version) VALUES (0)[0m
+  ↳ db/schema.rb:13
+  [1m[35m (7.1ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" character varying NOT NULL PRIMARY KEY, "value" character varying, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  ↳ db/schema.rb:13
+  [1m[36mActiveRecord::InternalMetadata Load (0.4ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ db/schema.rb:13
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ db/schema.rb:13
+  [1m[36mActiveRecord::InternalMetadata Create (0.4ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "key"[0m  [["key", "environment"], ["value", "development"], ["created_at", "2018-10-21 03:53:48.397188"], ["updated_at", "2018-10-21 03:53:48.397188"]]
+  ↳ db/schema.rb:13
+  [1m[35m (1.0ms)[0m  [1m[35mCOMMIT[0m
+  ↳ db/schema.rb:13
+  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ bin/rails:9
+  [1m[36mActiveRecord::InternalMetadata Update (0.4ms)[0m  [1m[33mUPDATE "ar_internal_metadata" SET "value" = $1, "updated_at" = $2 WHERE "ar_internal_metadata"."key" = $3[0m  [["value", "test"], ["updated_at", "2018-10-21 03:53:48.401912"], ["key", "environment"]]
+  ↳ bin/rails:9
+  [1m[35m (1.1ms)[0m  [1m[35mCOMMIT[0m
+  ↳ bin/rails:9
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_try_advisory_lock(2409350361371601795)[0m
+  ↳ bin/rails:9
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[35mCOMMIT[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_advisory_unlock(2409350361371601795)[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_try_advisory_lock(2409350361371601795)[0m
+  ↳ bin/rails:9
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+Migrating to CreateQuestions (20181021035440)
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ bin/rails:9
+  [1m[35m (7.4ms)[0m  [1m[35mCREATE TABLE "questions" ("id" bigserial primary key, "email" character varying, "body" text, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  ↳ db/migrate/20181021035440_create_questions.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20181021035440"]]
+  ↳ bin/rails:9
+  [1m[35m (1.1ms)[0m  [1m[35mCOMMIT[0m
+  ↳ bin/rails:9
+  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[35mCOMMIT[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_advisory_unlock(2409350361371601795)[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT COUNT(*) FROM "questions"[0m
+  [1m[35m (0.4ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mQuestion Create (0.6ms)[0m  [1m[32mINSERT INTO "questions" ("email", "body", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "janel.brandon@coderacademy.edu.au"], ["body", "What is the universe made of?"], ["created_at", "2018-10-21 03:56:03.912791"], ["updated_at", "2018-10-21 03:56:03.912791"]]
+  [1m[35m (5.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mQuestion Load (0.9ms)[0m  [1m[34mSELECT  "questions".* FROM "questions" LIMIT $1[0m  [["LIMIT", 11]]
+  [1m[35m (0.6ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mQuestion Create (1.0ms)[0m  [1m[32mINSERT INTO "questions" ("email", "body", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "janel.brandon@coderacademy.edu.au"], ["body", "What is reality?"], ["created_at", "2018-10-21 03:56:37.410274"], ["updated_at", "2018-10-21 03:56:37.410274"]]
+  [1m[35m (5.2ms)[0m  [1m[35mCOMMIT[0m
+Started GET "/" for 127.0.0.1 at 2018-10-21 13:59:14 +1000
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/caadmin/.rvm/gems/ruby-2.5.0/gems/activerecord-5.2.1/lib/active_record/log_subscriber.rb:98
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (uninitialized constant HomeController::Questions):
+  
+app/controllers/home_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:02:09 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.6ms)[0m  [1m[34mSELECT "questions".* FROM "questions"[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (10.7ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (1.0ms)
+Completed 200 OK in 3522ms (Views: 3515.5ms | ActiveRecord: 4.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:03:44 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.5ms)[0m  [1m[34mSELECT "questions".* FROM "questions"[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (12.9ms)
+Completed 500 Internal Server Error in 17ms (ActiveRecord: 4.2ms)
+
+
+  
+ActionView::Template::Error (undefined method `hexidigest' for Digest::MD5:Class
+Did you mean?  hexdigest):
+     8: <div class="media">
+     9:     <div class="media-left media-middle">
+    10:         <a href="#">
+    11:         <img class="media-object" src=<%=q.gravatar%> >
+    12:         </a>
+    13:     </div>
+    14:     <div class="media-body">
+  
+app/models/question.rb:3:in `gravatar'
+app/views/home/index.html.erb:11:in `block in _app_views_home_index_html_erb___2971726517608650743_69894385260400'
+app/views/home/index.html.erb:5:in `_app_views_home_index_html_erb___2971726517608650743_69894385260400'
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:05:29 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.3ms)[0m  [1m[34mSELECT "questions".* FROM "questions"[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (10.3ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (1.0ms)
+Completed 200 OK in 43ms (Views: 35.3ms | ActiveRecord: 4.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:05:49 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.4ms)[0m  [1m[34mSELECT "questions".* FROM "questions"[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (1.8ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 35ms (Views: 33.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:06:58 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.4ms)[0m  [1m[34mSELECT "questions".* FROM "questions"[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (1.6ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.8ms)
+Completed 200 OK in 29ms (Views: 27.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:07:05 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.9ms)[0m  [1m[34mSELECT "questions".* FROM "questions"[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (4.2ms)
+  Rendered home/_navbar.html.erb (0.2ms)
+  Rendered home/_new_question_form.html.erb (0.5ms)
+Completed 200 OK in 45ms (Views: 42.1ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:09:13 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.3ms)[0m  [1m[34mSELECT "questions".* FROM "questions"[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (8.8ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 35ms (Views: 29.5ms | ActiveRecord: 3.2ms)
+
+
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mQuestion Create (0.5ms)[0m  [1m[32mINSERT INTO "questions" ("email", "body", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "janelgbrandon@gmail.com"], ["body", "What is this course so challenging?"], ["created_at", "2018-10-21 04:11:18.251317"], ["updated_at", "2018-10-21 04:11:18.251317"]]
+  [1m[35m (2.7ms)[0m  [1m[35mCOMMIT[0m
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:11:24 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.4ms)[0m  [1m[34mSELECT "questions".* FROM "questions"[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (1.9ms)
+  Rendered home/_navbar.html.erb (0.5ms)
+  Rendered home/_new_question_form.html.erb (0.9ms)
+Completed 200 OK in 42ms (Views: 40.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:13:13 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.3ms)[0m  [1m[34mSELECT "questions".* FROM "questions"[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (10.1ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 36ms (Views: 29.0ms | ActiveRecord: 3.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:14:52 +1000
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/caadmin/.rvm/gems/ruby-2.5.0/gems/activerecord-5.2.1/lib/active_record/log_subscriber.rb:98
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.5ms)[0m  [1m[34mSELECT "questions".* FROM "questions"[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (10.2ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.7ms)
+Completed 200 OK in 244ms (Views: 231.1ms | ActiveRecord: 4.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:18:54 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.6ms)[0m  [1m[34mSELECT "questions".* FROM "questions"[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (12.4ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (1.3ms)
+Completed 200 OK in 43ms (Views: 35.2ms | ActiveRecord: 5.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:22:22 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.8ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (310.1ms)
+Completed 500 Internal Server Error in 314ms (ActiveRecord: 4.0ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `create_at' for #<#<Class:0x00007fb2b41482f0>:0x00007fb2b41575c0>):
+    13:     </div>
+    14:     <div class="media-body">
+    15:         <h4 class="media-heading"><%=q.email%> asked:</h4>
+    16:         <%=q.time_ago_in_words create_at%> ago:
+    17:         <%=q.body%>
+    18:     <div>
+    19:         <a href="/questions/12" class="btn btn-success btn-xs">View Answers</a>
+  
+app/views/home/index.html.erb:16:in `block in _app_views_home_index_html_erb__991967920703685573_70202751075700'
+app/views/home/index.html.erb:5:in `_app_views_home_index_html_erb__991967920703685573_70202751075700'
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:22:40 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.5ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (10.2ms)
+Completed 500 Internal Server Error in 13ms (ActiveRecord: 0.5ms)
+
+
+  
+ActionView::Template::Error (undefined method `create_at' for #<Question:0x00007fb2bc2818d0>
+Did you mean?  created_at
+               created_at?
+               created_at=):
+    13:     </div>
+    14:     <div class="media-body">
+    15:         <h4 class="media-heading"><%=q.email%> asked:</h4>
+    16:         <%=time_ago_in_words q.create_at%> ago:
+    17:         <%=q.body%>
+    18:     <div>
+    19:         <a href="/questions/12" class="btn btn-success btn-xs">View Answers</a>
+  
+app/views/home/index.html.erb:16:in `block in _app_views_home_index_html_erb__991967920703685573_70202818911580'
+app/views/home/index.html.erb:5:in `_app_views_home_index_html_erb__991967920703685573_70202818911580'
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:24:20 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.4ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (16.7ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.5ms)
+Completed 200 OK in 61ms (Views: 59.3ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:35:35 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.9ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (16.1ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (0.8ms)
+Completed 200 OK in 60ms (Views: 48.5ms | ActiveRecord: 5.6ms)
+
+
+Started POST "/questions" for 127.0.0.1 at 2018-10-21 14:36:06 +1000
+  
+AbstractController::ActionNotFound (The action 'create' could not be found for QuestionsController):
+  
+actionpack (5.2.1) lib/abstract_controller/base.rb:129:in `process'
+actionview (5.2.1) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.1) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.1) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.5) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.5) lib/rack/etag.rb:25:in `call'
+rack (2.0.5) lib/rack/conditional_get.rb:38:in `call'
+rack (2.0.5) lib/rack/head.rb:12:in `call'
+actionpack (5.2.1) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.5) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.5) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.1) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/questions" for 127.0.0.1 at 2018-10-21 14:36:24 +1000
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for QuestionsController):
+  
+actionpack (5.2.1) lib/abstract_controller/base.rb:129:in `process'
+actionview (5.2.1) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.1) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.1) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.5) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.5) lib/rack/etag.rb:25:in `call'
+rack (2.0.5) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.5) lib/rack/head.rb:12:in `call'
+actionpack (5.2.1) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.5) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.5) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.1) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:36:38 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.4ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (23.0ms)
+  Rendered home/_navbar.html.erb (1.5ms)
+  Rendered home/_new_question_form.html.erb (1.2ms)
+Completed 200 OK in 92ms (Views: 81.3ms | ActiveRecord: 8.5ms)
+
+
+Started POST "/questions" for 127.0.0.1 at 2018-10-21 14:36:47 +1000
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"quvggqBBu46XTzLq7PJvKYzfYOlbKIab0QVifgU6Wz4OxzlmInq0OzBZNZ+011Q8zymW5GOcTMqBNxFe6ps0og==", "question"=>{"email"=>"janel.brandon@coderacademy.edu.au", "body"=>"How to style rails?"}}
+No template found for QuestionsController#create, rendering head :no_content
+Completed 204 No Content in 21ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/questions" for 127.0.0.1 at 2018-10-21 14:36:54 +1000
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"quvggqBBu46XTzLq7PJvKYzfYOlbKIab0QVifgU6Wz4OxzlmInq0OzBZNZ+011Q8zymW5GOcTMqBNxFe6ps0og==", "question"=>{"email"=>"janel.brandon@coderacademy.edu.au", "body"=>"How to style rails?"}}
+No template found for QuestionsController#create, rendering head :no_content
+Completed 204 No Content in 17ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/questions" for 127.0.0.1 at 2018-10-21 14:38:14 +1000
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"quvggqBBu46XTzLq7PJvKYzfYOlbKIab0QVifgU6Wz4OxzlmInq0OzBZNZ+011Q8zymW5GOcTMqBNxFe6ps0og==", "question"=>{"email"=>"janel.brandon@coderacademy.edu.au", "body"=>"How to style rails?"}}
+No template found for QuestionsController#create, rendering head :no_content
+Completed 204 No Content in 16ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/questions" for 127.0.0.1 at 2018-10-21 14:38:22 +1000
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"quvggqBBu46XTzLq7PJvKYzfYOlbKIab0QVifgU6Wz4OxzlmInq0OzBZNZ+011Q8zymW5GOcTMqBNxFe6ps0og==", "question"=>{"email"=>"janel.brandon@coderacademy.edu.au", "body"=>"How to style rails?"}}
+No template found for QuestionsController#create, rendering head :no_content
+Completed 204 No Content in 37ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:38:27 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.4ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (10.0ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.5ms)
+Completed 200 OK in 43ms (Views: 35.9ms | ActiveRecord: 3.5ms)
+
+
+Started POST "/questions" for 127.0.0.1 at 2018-10-21 14:38:33 +1000
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"zZ4za/sVrogUvr0GWLvkOiTSkSR4zFtK1I9Bb9g1ahFpsuqPeS6hPbOounMAnt8vZyRnKUB4kRuEvTJPN5QFjQ==", "question"=>{"email"=>"janel.brandon@coderacademy.edu.au", "body"=>"as"}}
+No template found for QuestionsController#create, rendering head :no_content
+Completed 204 No Content in 23ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/questions" for 127.0.0.1 at 2018-10-21 14:40:15 +1000
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"zZ4za/sVrogUvr0GWLvkOiTSkSR4zFtK1I9Bb9g1ahFpsuqPeS6hPbOounMAnt8vZyRnKUB4kRuEvTJPN5QFjQ==", "question"=>{"email"=>"janel.brandon@coderacademy.edu.au", "body"=>"How do I style rails?"}}
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/questions_controller.rb:3
+  [1m[36mQuestion Create (0.5ms)[0m  [1m[32mINSERT INTO "questions" ("email", "body", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "janel.brandon@coderacademy.edu.au"], ["body", "How do I style rails?"], ["created_at", "2018-10-21 04:40:15.848941"], ["updated_at", "2018-10-21 04:40:15.848941"]]
+  ↳ app/controllers/questions_controller.rb:3
+  [1m[35m (1.1ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/questions_controller.rb:3
+No template found for QuestionsController#create, rendering head :no_content
+Completed 204 No Content in 34ms (ActiveRecord: 6.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:41:43 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.4ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (13.2ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 57ms (Views: 51.3ms | ActiveRecord: 3.5ms)
+
+
+Started POST "/questions" for 127.0.0.1 at 2018-10-21 14:42:11 +1000
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"6+y80Kx9g0XSgdgLImGspRn/ekEIPrVlzA7SZe5d611PwGU0LkaM8HWX3356RJewWgmMTDCKfzScPKFFAfyEwQ==", "question"=>{"email"=>"janelgbrandon@gmail.com", "body"=>"What about testing in rails? "}}
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/questions_controller.rb:3
+  [1m[36mQuestion Create (0.6ms)[0m  [1m[32mINSERT INTO "questions" ("email", "body", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "janelgbrandon@gmail.com"], ["body", "What about testing in rails? "], ["created_at", "2018-10-21 04:42:11.540493"], ["updated_at", "2018-10-21 04:42:11.540493"]]
+  ↳ app/controllers/questions_controller.rb:3
+  [1m[35m (1.8ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/questions_controller.rb:3
+Redirected to http://localhost:3000/
+Completed 302 Found in 10ms (ActiveRecord: 2.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:42:11 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (1.8ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (8.0ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 47ms (Views: 43.7ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/questions/12" for 127.0.0.1 at 2018-10-21 14:51:15 +1000
+  
+AbstractController::ActionNotFound (The action 'show' could not be found for QuestionsController):
+  
+actionpack (5.2.1) lib/abstract_controller/base.rb:129:in `process'
+actionview (5.2.1) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.1) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.1) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.5) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.5) lib/rack/etag.rb:25:in `call'
+rack (2.0.5) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.5) lib/rack/head.rb:12:in `call'
+actionpack (5.2.1) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.5) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.5) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.1) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/questions/12" for 127.0.0.1 at 2018-10-21 14:55:03 +1000
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"12"}
+  Rendering questions/show.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (0.6ms)
+  Rendered questions/show.html.erb within layouts/application (1.7ms)
+  Rendered home/_navbar.html.erb (0.5ms)
+  Rendered home/_new_question_form.html.erb (0.7ms)
+Completed 200 OK in 36ms (Views: 34.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:58:35 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (1.3ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (17.1ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.7ms)
+Completed 200 OK in 60ms (Views: 50.3ms | ActiveRecord: 7.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 14:58:36 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.8ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (6.0ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 51ms (Views: 47.9ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 15:00:19 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.4ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (3.2ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (0.8ms)
+Completed 200 OK in 30ms (Views: 28.5ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/questions/5" for 127.0.0.1 at 2018-10-21 15:00:22 +1000
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"5"}
+  Rendering questions/show.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (0.6ms)
+  Rendered questions/show.html.erb within layouts/application (1.6ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (0.8ms)
+Completed 200 OK in 31ms (Views: 30.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 15:00:27 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.6ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (5.1ms)
+  Rendered home/_navbar.html.erb (0.7ms)
+  Rendered home/_new_question_form.html.erb (0.9ms)
+Completed 200 OK in 52ms (Views: 47.9ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/questions/5" for 127.0.0.1 at 2018-10-21 15:00:28 +1000
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"5"}
+  Rendering questions/show.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (2.4ms)
+  Rendered questions/show.html.erb within layouts/application (5.4ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 67ms (Views: 64.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 15:06:02 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.8ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (18.2ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.5ms)
+Completed 200 OK in 55ms (Views: 43.3ms | ActiveRecord: 9.9ms)
+
+
+Started GET "/questions/5" for 127.0.0.1 at 2018-10-21 15:06:03 +1000
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mQuestion Load (2.4ms)[0m  [1m[34mSELECT  "questions".* FROM "questions" WHERE "questions"."id" = $1 LIMIT $2[0m  [["id", 5], ["LIMIT", 1]]
+  ↳ app/controllers/questions_controller.rb:4
+  Rendering questions/show.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (0.8ms)
+  Rendered questions/show.html.erb within layouts/application (2.3ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.7ms)
+Completed 200 OK in 53ms (Views: 41.2ms | ActiveRecord: 2.9ms)
+
+
+Started GET "/questions/5" for 127.0.0.1 at 2018-10-21 15:06:56 +1000
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mQuestion Load (0.5ms)[0m  [1m[34mSELECT  "questions".* FROM "questions" WHERE "questions"."id" = $1 LIMIT $2[0m  [["id", 5], ["LIMIT", 1]]
+  ↳ app/controllers/questions_controller.rb:4
+  Rendering questions/show.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (1.0ms)
+  Rendered questions/show.html.erb within layouts/application (2.7ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (1.2ms)
+Completed 200 OK in 46ms (Views: 43.3ms | ActiveRecord: 0.5ms)
+
+
+Started POST "/answers" for 127.0.0.1 at 2018-10-21 15:10:31 +1000
+Processing by HomeController#temp as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"UMlotyZnlTkXFGer/TcV87pNNUzU4IfCNNkZgnQ1Ivn05bFTpFyajLACYN6lEi7m+bvDQexUTZNk62qim5RNZQ==", "answer"=>{"email"=>"janelgbrandon@gmail.com", "body"=>"as"}}
+Redirected to http://localhost:3000/
+Completed 302 Found in 4ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 15:10:31 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.8ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (4.6ms)
+  Rendered home/_navbar.html.erb (0.5ms)
+  Rendered home/_new_question_form.html.erb (1.1ms)
+Completed 200 OK in 56ms (Views: 52.8ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/questions/5" for 127.0.0.1 at 2018-10-21 15:11:03 +1000
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mQuestion Load (0.3ms)[0m  [1m[34mSELECT  "questions".* FROM "questions" WHERE "questions"."id" = $1 LIMIT $2[0m  [["id", 5], ["LIMIT", 1]]
+  ↳ app/controllers/questions_controller.rb:4
+  Rendering questions/show.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (0.6ms)
+  Rendered questions/show.html.erb within layouts/application (1.6ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.5ms)
+Completed 200 OK in 44ms (Views: 27.6ms | ActiveRecord: 5.7ms)
+
+
+Started POST "/answers" for 127.0.0.1 at 2018-10-21 15:11:09 +1000
+  
+ActionController::RoutingError (No route matches [POST] "/answers"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/answers" for 127.0.0.1 at 2018-10-21 15:17:13 +1000
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/caadmin/.rvm/gems/ruby-2.5.0/gems/activerecord-5.2.1/lib/active_record/log_subscriber.rb:98
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.2.1) lib/active_record/migration.rb:579:in `check_pending!'
+activerecord (5.2.1) lib/active_record/migration.rb:556:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT pg_try_advisory_lock(2409350361371601795)[0m
+  ↳ bin/rails:9
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+Migrating to CreateAnswers (20181021051431)
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ bin/rails:9
+  [1m[35m (9.4ms)[0m  [1m[35mCREATE TABLE "answers" ("id" bigserial primary key, "question_id" integer, "email" character varying, "body" text, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  ↳ db/migrate/20181021051431_create_answers.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20181021051431"]]
+  ↳ bin/rails:9
+  [1m[35m (1.4ms)[0m  [1m[35mCOMMIT[0m
+  ↳ bin/rails:9
+  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[35mCOMMIT[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_advisory_unlock(2409350361371601795)[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+Started GET "/answers" for 127.0.0.1 at 2018-10-21 15:17:31 +1000
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/caadmin/.rvm/gems/ruby-2.5.0/gems/activerecord-5.2.1/lib/active_record/log_subscriber.rb:98
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for AnswersController):
+  
+actionpack (5.2.1) lib/abstract_controller/base.rb:129:in `process'
+actionview (5.2.1) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.1) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.1) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.5) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.5) lib/rack/etag.rb:25:in `call'
+rack (2.0.5) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.5) lib/rack/head.rb:12:in `call'
+actionpack (5.2.1) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.5) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.5) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.1) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-10-21 15:21:25 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.9ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (17.5ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.9ms)
+Completed 200 OK in 3689ms (Views: 3676.7ms | ActiveRecord: 8.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 15:21:29 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (1.0ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (8.0ms)
+  Rendered home/_navbar.html.erb (0.5ms)
+  Rendered home/_new_question_form.html.erb (1.0ms)
+Completed 200 OK in 58ms (Views: 53.8ms | ActiveRecord: 1.0ms)
+
+
+Started POST "/questions" for 127.0.0.1 at 2018-10-21 15:21:48 +1000
+Processing by QuestionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"gBZKTfLrh1352GJ9tBvROPhqWh2WzWaHdo0UWGC9VackOpOpcNCI6F7OZQjsPuotu5ysEK55rNYmv2d4jxw6Ow==", "question"=>{"email"=>"jakeyb225@gmail.com", "body"=>"what is rails?"}}
+  [1m[35m (0.6ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/questions_controller.rb:8
+  [1m[36mQuestion Create (1.6ms)[0m  [1m[32mINSERT INTO "questions" ("email", "body", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "jakeyb225@gmail.com"], ["body", "what is rails?"], ["created_at", "2018-10-21 05:21:49.004601"], ["updated_at", "2018-10-21 05:21:49.004601"]]
+  ↳ app/controllers/questions_controller.rb:8
+  [1m[35m (2.9ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/questions_controller.rb:8
+Redirected to http://localhost:3000/
+Completed 302 Found in 17ms (ActiveRecord: 5.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 15:21:49 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.4ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (2.9ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (1.5ms)
+Completed 200 OK in 45ms (Views: 43.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/questions/6" for 127.0.0.1 at 2018-10-21 15:22:09 +1000
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mQuestion Load (0.8ms)[0m  [1m[34mSELECT  "questions".* FROM "questions" WHERE "questions"."id" = $1 LIMIT $2[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/questions_controller.rb:4
+  Rendering questions/show.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (2.0ms)
+  Rendered questions/show.html.erb within layouts/application (5.5ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.7ms)
+Completed 200 OK in 66ms (Views: 57.9ms | ActiveRecord: 1.5ms)
+
+
+Started POST "/answers" for 127.0.0.1 at 2018-10-21 15:35:54 +1000
+Processing by AnswersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"C/IBxRPy35GpinEZWbDHvz8qinr61eu/1/i/7Aqgs0Mi6XCVG1wAsmN87zgpiShm/AyBT9xNjAXNgbnnmgR0IA==", "answer"=>{"email"=>"janelgbrandon@gmail.com", "body"=>"A framework "}}
+Completed 500 Internal Server Error in 23ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (private method `require' called for #<Class:0x00007fb2bc234300>):
+  
+app/controllers/answers_controller.rb:9:in `answer_params'
+app/controllers/answers_controller.rb:3:in `create'
+Started GET "/" for 127.0.0.1 at 2018-10-21 15:36:24 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (0.9ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (11.3ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (1.0ms)
+Completed 200 OK in 49ms (Views: 42.7ms | ActiveRecord: 4.3ms)
+
+
+Started GET "/questions/6" for 127.0.0.1 at 2018-10-21 15:36:26 +1000
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mQuestion Load (0.2ms)[0m  [1m[34mSELECT  "questions".* FROM "questions" WHERE "questions"."id" = $1 LIMIT $2[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/questions_controller.rb:4
+  Rendering questions/show.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (1.4ms)
+  Rendered questions/show.html.erb within layouts/application (3.1ms)
+  Rendered home/_navbar.html.erb (0.5ms)
+  Rendered home/_new_question_form.html.erb (1.1ms)
+Completed 200 OK in 48ms (Views: 45.7ms | ActiveRecord: 0.4ms)
+
+
+Started POST "/answers" for 127.0.0.1 at 2018-10-21 15:36:34 +1000
+Processing by AnswersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"hq7VwEF0hUep5HBKEF2OtW71nax2rFTBW3yYhY91dtmvtaSQSdpaZGMS7mtgZGFsrdOWmVA0M3tBBZ6OH9Gxug==", "answer"=>{"question_id"=>"6", "email"=>"janelgbrandon@gmail.com", "body"=>"a framework for ruby"}}
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/answers_controller.rb:3
+  [1m[36mAnswer Create (1.1ms)[0m  [1m[32mINSERT INTO "answers" ("question_id", "email", "body", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"[0m  [["question_id", 6], ["email", "janelgbrandon@gmail.com"], ["body", "a framework for ruby"], ["created_at", "2018-10-21 05:36:34.417720"], ["updated_at", "2018-10-21 05:36:34.417720"]]
+  ↳ app/controllers/answers_controller.rb:3
+  [1m[35m (1.4ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/answers_controller.rb:3
+Redirected to http://localhost:3000/
+Completed 302 Found in 25ms (ActiveRecord: 7.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-21 15:36:34 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (1.7ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (11.7ms)
+  Rendered home/_navbar.html.erb (0.8ms)
+  Rendered home/_new_question_form.html.erb (1.1ms)
+Completed 200 OK in 66ms (Views: 63.1ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/questions/6" for 127.0.0.1 at 2018-10-21 15:36:39 +1000
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mQuestion Load (0.4ms)[0m  [1m[34mSELECT  "questions".* FROM "questions" WHERE "questions"."id" = $1 LIMIT $2[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/questions_controller.rb:4
+  Rendering questions/show.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (1.0ms)
+  Rendered questions/show.html.erb within layouts/application (2.4ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (1.3ms)
+Completed 200 OK in 44ms (Views: 42.0ms | ActiveRecord: 0.4ms)
+
+
+  [1m[36mAnswer Load (0.3ms)[0m  [1m[34mSELECT  "answers".* FROM "answers" LIMIT $1[0m  [["LIMIT", 11]]
+Started GET "/questions/6" for 127.0.0.1 at 2018-10-21 15:52:08 +1000
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mQuestion Load (0.8ms)[0m  [1m[34mSELECT  "questions".* FROM "questions" WHERE "questions"."id" = $1 LIMIT $2[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/questions_controller.rb:4
+  Rendering questions/show.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (1.5ms)
+  Rendered questions/show.html.erb within layouts/application (3.2ms)
+  Rendered home/_navbar.html.erb (0.4ms)
+  Rendered home/_new_question_form.html.erb (1.3ms)
+Completed 200 OK in 99ms (Views: 72.7ms | ActiveRecord: 5.7ms)
+
+
+Started POST "/answers" for 127.0.0.1 at 2018-10-21 15:53:02 +1000
+Processing by AnswersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"OazJnNd6bpiEJGuF2Ft2Xt3vGwm2Ef2Lg9/rvmvoID2dgBB4VUFhLSMybPCAfk1LnhntBI6lN9rT7ZiehElPoQ==", "answer"=>{"question_id"=>"6", "email"=>"janel.brandon@coderacademy.edu.au", "body"=>"It is a ruby framework - and it's used for web application development. It makes building a webapp faster with scaffolding."}}
+  [1m[36mQuestion Load (0.5ms)[0m  [1m[34mSELECT  "questions".* FROM "questions" WHERE "questions"."id" = $1 LIMIT $2[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/answers_controller.rb:3
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.5ms)
+
+
+  
+SyntaxError (/home/caadmin/repos/forum/app/models/answer.rb:3: syntax error, unexpected ':', expecting keyword_end
+    belongs_to: question
+              ^):
+  
+app/models/answer.rb:3: syntax error, unexpected ':', expecting keyword_end
+app/controllers/answers_controller.rb:4:in `create'
+Started GET "/" for 127.0.0.1 at 2018-10-21 15:53:24 +1000
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  [1m[36mQuestion Load (1.9ms)[0m  [1m[34mSELECT "questions".* FROM "questions" ORDER BY "questions"."created_at" DESC[0m
+  ↳ app/views/home/index.html.erb:5
+  Rendered home/index.html.erb within layouts/application (15.1ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.7ms)
+Completed 200 OK in 51ms (Views: 43.5ms | ActiveRecord: 5.2ms)
+
+
+Started GET "/questions/6" for 127.0.0.1 at 2018-10-21 15:53:28 +1000
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mQuestion Load (0.5ms)[0m  [1m[34mSELECT  "questions".* FROM "questions" WHERE "questions"."id" = $1 LIMIT $2[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/questions_controller.rb:4
+  Rendering questions/show.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (1.2ms)
+  Rendered questions/show.html.erb within layouts/application (3.3ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.7ms)
+Completed 200 OK in 56ms (Views: 51.6ms | ActiveRecord: 0.5ms)
+
+
+Started POST "/answers" for 127.0.0.1 at 2018-10-21 15:53:48 +1000
+Processing by AnswersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Dz2z/D2YXShzUb1dYvBwgyPy1CNL9+BxdAczhlwRfUwmJsKsNTaCC7mnI3wSyZ9a4NTfFm1vh8tufjWNzLW6Lw==", "answer"=>{"question_id"=>"6", "email"=>"janel.brandon@coderacademy.edu.au", "body"=>"It makes building webapps in ruby faster with scaffolding."}}
+  [1m[36mQuestion Load (0.6ms)[0m  [1m[34mSELECT  "questions".* FROM "questions" WHERE "questions"."id" = $1 LIMIT $2[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/answers_controller.rb:3
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/answers_controller.rb:4
+  [1m[36mQuestion Load (1.2ms)[0m  [1m[34mSELECT  "questions".* FROM "questions" WHERE "questions"."id" = $1 LIMIT $2[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/answers_controller.rb:4
+  [1m[36mAnswer Create (0.5ms)[0m  [1m[32mINSERT INTO "answers" ("question_id", "email", "body", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"[0m  [["question_id", 6], ["email", "janel.brandon@coderacademy.edu.au"], ["body", "It makes building webapps in ruby faster with scaffolding."], ["created_at", "2018-10-21 05:53:48.392154"], ["updated_at", "2018-10-21 05:53:48.392154"]]
+  ↳ app/controllers/answers_controller.rb:4
+  [1m[35m (1.7ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/answers_controller.rb:4
+Redirected to http://localhost:3000/questions/6
+Completed 302 Found in 48ms (ActiveRecord: 8.9ms)
+
+
+Started GET "/questions/6" for 127.0.0.1 at 2018-10-21 15:53:48 +1000
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mQuestion Load (1.1ms)[0m  [1m[34mSELECT  "questions".* FROM "questions" WHERE "questions"."id" = $1 LIMIT $2[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/questions_controller.rb:4
+  Rendering questions/show.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (0.6ms)
+  Rendered questions/show.html.erb within layouts/application (1.7ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.6ms)
+Completed 200 OK in 31ms (Views: 26.6ms | ActiveRecord: 1.1ms)
+
+
+  [1m[36mAnswer Load (1.6ms)[0m  [1m[34mSELECT  "answers".* FROM "answers" LIMIT $1[0m  [["LIMIT", 11]]
+Started GET "/questions/6" for 127.0.0.1 at 2018-10-21 16:02:22 +1000
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mQuestion Load (0.4ms)[0m  [1m[34mSELECT  "questions".* FROM "questions" WHERE "questions"."id" = $1 LIMIT $2[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/questions_controller.rb:4
+  Rendering questions/show.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (0.8ms)
+  [1m[36mAnswer Load (0.3ms)[0m  [1m[34mSELECT "answers".* FROM "answers" WHERE "answers"."question_id" = $1[0m  [["question_id", 6]]
+  ↳ app/views/questions/show.html.erb:22
+  Rendered questions/show.html.erb within layouts/application (24.2ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (1.3ms)
+Completed 200 OK in 80ms (Views: 53.3ms | ActiveRecord: 9.8ms)
+
+
+Started GET "/questions/6" for 127.0.0.1 at 2018-10-21 16:12:53 +1000
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mQuestion Load (0.4ms)[0m  [1m[34mSELECT  "questions".* FROM "questions" WHERE "questions"."id" = $1 LIMIT $2[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/questions_controller.rb:4
+  Rendering questions/show.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (0.7ms)
+  [1m[36mAnswer Load (0.8ms)[0m  [1m[34mSELECT "answers".* FROM "answers" WHERE "answers"."question_id" = $1 ORDER BY "answers"."created_at" DESC[0m  [["question_id", 6]]
+  ↳ app/views/questions/show.html.erb:22
+  Rendered questions/show.html.erb within layouts/application (276.1ms)
+Completed 500 Internal Server Error in 302ms (ActiveRecord: 11.1ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `q' for #<#<Class:0x00007fb2bc395eb0>:0x00007fb2bc394470>):
+    28:                 </div>
+    29:                 <div class="media-body">
+    30:                     <h4 class="media-heading"><%= answer.email %> answered:</h4>
+    31:                     <div><%=time_ago_in_words q.created_at%> ago:</div>
+    32:                     <%= answer.body %>
+    33:                 </div>
+    34:             </div>
+  
+app/views/questions/show.html.erb:31:in `block in _app_views_questions_show_html_erb___2543158798677565278_70202819392340'
+app/views/questions/show.html.erb:22:in `_app_views_questions_show_html_erb___2543158798677565278_70202819392340'
+Started GET "/questions/6" for 127.0.0.1 at 2018-10-21 16:13:15 +1000
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mQuestion Load (1.1ms)[0m  [1m[34mSELECT  "questions".* FROM "questions" WHERE "questions"."id" = $1 LIMIT $2[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/questions_controller.rb:4
+  Rendering questions/show.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (1.3ms)
+  [1m[36mAnswer Load (0.7ms)[0m  [1m[34mSELECT "answers".* FROM "answers" WHERE "answers"."question_id" = $1 ORDER BY "answers"."created_at" DESC[0m  [["question_id", 6]]
+  ↳ app/views/questions/show.html.erb:22
+  Rendered questions/show.html.erb within layouts/application (6.7ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.9ms)
+Completed 200 OK in 75ms (Views: 66.6ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/questions/6" for 127.0.0.1 at 2018-10-21 16:17:04 +1000
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"6"}
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms)
+
+
+  
+TypeError (wrong argument type Class (expected Module)):
+  
+app/models/question.rb:5:in `include'
+app/models/question.rb:5:in `<class:Question>'
+app/models/question.rb:1:in `<main>'
+app/controllers/questions_controller.rb:4:in `show'
+Started GET "/questions/6" for 127.0.0.1 at 2018-10-21 16:18:40 +1000
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"6"}
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.0ms)
+
+
+  
+TypeError (wrong argument type Class (expected Module)):
+  
+app/models/question.rb:3:in `include'
+app/models/question.rb:3:in `<class:Question>'
+app/models/question.rb:1:in `<main>'
+app/controllers/questions_controller.rb:4:in `show'
+Started GET "/questions/6" for 127.0.0.1 at 2018-10-21 16:18:56 +1000
+Processing by QuestionsController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mQuestion Load (2.0ms)[0m  [1m[34mSELECT  "questions".* FROM "questions" WHERE "questions"."id" = $1 LIMIT $2[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/questions_controller.rb:4
+  Rendering questions/show.html.erb within layouts/application
+  Rendered home/_new_answer_form.html.erb (3.0ms)
+  [1m[36mAnswer Load (1.8ms)[0m  [1m[34mSELECT "answers".* FROM "answers" WHERE "answers"."question_id" = $1 ORDER BY "answers"."created_at" DESC[0m  [["question_id", 6]]
+  ↳ app/views/questions/show.html.erb:22
+  Rendered questions/show.html.erb within layouts/application (20.3ms)
+  Rendered home/_navbar.html.erb (0.3ms)
+  Rendered home/_new_question_form.html.erb (0.7ms)
+Completed 200 OK in 101ms (Views: 61.1ms | ActiveRecord: 15.8ms)
+
+
